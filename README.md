@@ -1,6 +1,6 @@
 https://github.com/facebook/create-react-app/issues/11809
 
-run `yarn start`, again and again -> you'll get different
+run `yarn start`, again and again -> you'll get different outputs from eslint without changing anything
 
 ## expected
 
